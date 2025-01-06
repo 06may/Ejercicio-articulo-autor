@@ -18,7 +18,7 @@
 
  - Cada **artículo** estará ligado a un **autor**. Es decir, cada artículo tendrá una referencia a un objeto `Autor`. - Un **autor** puede escribir más de un **artículo**, por lo que el autor tendrá la capacidad de tener una lista de artículos que ha escrito.
 
-### **Clase `Autor`** La clase `Autor` representa a un escritor o creador de artículos. Los atributos de esta clase son:
+**Clase `Autor`** La clase `Autor` representa a un escritor o creador de artículos. Los atributos de esta clase son:
  
  - **Nombre**: El primer nombre del autor.
  - **Apellido**: El apellido del autor. 
