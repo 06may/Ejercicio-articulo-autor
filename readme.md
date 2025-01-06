@@ -4,7 +4,7 @@
 
 ### Descripción del Ejercicio 
 
-### **Clase `Articulo`** La clase `Articulo` representa un artículo escrito por un autor. Los atributos que debe tener la clase `Articulo` son los siguientes:
+**Clase `Articulo`** La clase `Articulo` representa un artículo escrito por un autor. Los atributos que debe tener la clase `Articulo` son los siguientes:
 
  - **Título**: El nombre o encabezado del artículo.
 
